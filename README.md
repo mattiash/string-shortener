@@ -1,6 +1,6 @@
 # String shortener
 
-[![Build Status](https://travis-ci.org/mattiash/string-shortener.svg?branch=master)](https://travis-ci.org/mattiash/string-shortener) [![Coverage Status](https://coveralls.io/repos/github/mattiash/string-shortener/badge.svg?branch=master)](https://coveralls.io/github/mattiash/string-shortener?branch=master)
+[![NPM Version](https://img.shields.io/npm/v/string-shortener.svg)](https://www.npmjs.com/package/string-shortener) [![Build Status](https://travis-ci.org/mattiash/string-shortener.svg?branch=master)](https://travis-ci.org/mattiash/string-shortener) [![Coverage Status](https://coveralls.io/repos/github/mattiash/string-shortener/badge.svg?branch=master)](https://coveralls.io/github/mattiash/string-shortener?branch=master)
 
 Shorten strings and keep mapping between short and long variants.
 
